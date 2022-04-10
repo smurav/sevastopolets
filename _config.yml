@@ -1,14 +1,14 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 
 title: Загадочный и мистический Крым
-description: Проектная работа в рамках участия в Конкурсе проектных работ обучающихся "Крымские маршруты" VII-го комплексного образовательного проекта "Москва-Крым-Территория талантов" [https://sevastopolets-moskva.ru/]
+avatar: "/img/seva_logo.png"
+description: Проектная работа выполнена в рамках участия в Конкурсе проектных работ обучающихся <br/> "Крымские маршруты" VII-го комплексного образовательного проекта "Москва-Крым-Территория талантов" [https://sevastopolets-moskva.ru/]
 logo: /img/seva_logo.png"
-description: 
 
 show_downloads: false
 
 github:
   is_project_page: false
   
-avatar: "/img/seva_logo.png"
+
 
