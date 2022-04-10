@@ -1,5 +1,8 @@
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
 
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    width="210mm"
    height="3000mm"
@@ -24,9 +27,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      height="3000mm"
-     inkscape:zoom="0.32026165"
-     inkscape:cx="165.48969"
-     inkscape:cy="530.81598"
+     inkscape:zoom="0.90583672"
+     inkscape:cx="358.78431"
+     inkscape:cy="165.59276"
      inkscape:window-width="1920"
      inkscape:window-height="1129"
      inkscape:window-x="1920"
@@ -101,7 +104,7 @@
          y="66.094276"
          id="tspan3577">2022 г., Москва</tspan></text>
     <path
-       style="fill:#ffcc00;stroke:#ffcc00;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#d5ffe6;stroke:#d5ffe6;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 23.207373,78.491063 H 186.79263"
        id="path60792" />
     <text
@@ -116,111 +119,114 @@
          x="29.218451"
          y="91.979454">Загадочный и мистический Крым</tspan></text>
     <rect
-       style="fill:#ffcc00;stroke:#ffcc00;stroke-width:1.2052;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#d5ffe6;stroke:#d5ffe6;stroke-width:1.18919;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect91889"
-       width="199.7948"
-       height="147.99188"
-       x="5.1025991"
-       y="99.385063" />
+       width="199.81081"
+       height="144.07385"
+       x="5.0945935"
+       y="99.37706" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect91889);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="260.2149"
        y="241.53322"
        id="text94965"><tspan
-         x="5.1035156"
-         y="103.13027"
-         id="tspan254279"><tspan
+         x="5.09375"
+         y="103.12246"
+         id="tspan254498"><tspan
            style="font-family:times;-inkscape-font-specification:times"
-           id="tspan254277">Крымская земля – это истинная находка для тех, кто любит загадочные и мистические места. Существует </tspan></tspan><tspan
-         x="5.1035156"
-         y="108.74691"
-         id="tspan254283"><tspan
+           id="tspan254496">Крымская земля – это истинная находка для тех, кто любит загадочные и мистические места. Существует </tspan></tspan><tspan
+         x="5.09375"
+         y="108.7391"
+         id="tspan254502"><tspan
            style="font-family:times;-inkscape-font-specification:times"
-           id="tspan254281">множество историй о том, как жители или приезжие становятся очевидцами необъяснимых вещей, даже </tspan></tspan><tspan
-         x="5.1035156"
-         y="114.36355"
-         id="tspan254287"><tspan
+           id="tspan254500">множество историй о том, как жители или приезжие становятся очевидцами необъяснимых вещей, даже </tspan></tspan><tspan
+         x="5.09375"
+         y="114.35573"
+         id="tspan254506"><tspan
            style="font-family:times;-inkscape-font-specification:times"
-           id="tspan254285">могут указать места, где происходят неподвластные разуму ситуации. Многие утверждают, что на </tspan></tspan><tspan
-         x="5.1035156"
-         y="119.98018"
-         id="tspan254291"><tspan
+           id="tspan254504">могут указать места, где происходят неподвластные разуму ситуации. Многие утверждают, что на </tspan></tspan><tspan
+         x="5.09375"
+         y="119.97237"
+         id="tspan254510"><tspan
            style="font-family:times;-inkscape-font-specification:times"
-           id="tspan254289">полуострове есть особенные точки: одни способны подарить человеку силу и энергию, другие вгонят в тоску </tspan></tspan><tspan
-         x="5.1035156"
-         y="125.59682"
-         id="tspan254295"><tspan
+           id="tspan254508">полуострове есть особенные точки: одни способны подарить человеку силу и энергию, другие вгонят в тоску </tspan></tspan><tspan
+         x="5.09375"
+         y="125.58901"
+         id="tspan254514"><tspan
            style="font-family:times;-inkscape-font-specification:times"
-           id="tspan254293">и депрессию. О самых интересных и удивительных объектах, а также их происхождении я расскажу в этой </tspan></tspan><tspan
-         x="5.1035156"
-         y="131.21346"
-         id="tspan254299"><tspan
+           id="tspan254512">и депрессию. О самых интересных и удивительных объектах, а также их происхождении я расскажу в этой </tspan></tspan><tspan
+         x="5.09375"
+         y="131.20565"
+         id="tspan254518"><tspan
            style="font-family:times;-inkscape-font-specification:times"
-           id="tspan254297">презентации.
+           id="tspan254516">презентации.
 </tspan></tspan><tspan
-         x="5.1035156"
-         y="136.8301"
-         id="tspan254305"><tspan
+         x="5.09375"
+         y="136.82229"
+         id="tspan254524"><tspan
            style="font-weight:bold;font-family:times;-inkscape-font-specification:'times Bold'"
-           id="tspan254301">Цель экскурсии:</tspan><tspan
+           id="tspan254520">Цель экскурсии:</tspan><tspan
            style="font-family:times;-inkscape-font-specification:times"
-           id="tspan254303"> ознакомить экскурсантов с местными загадочными и мистическими </tspan></tspan><tspan
-         x="5.1035156"
-         y="142.47637"
-         id="tspan254309"><tspan
+           id="tspan254522"> ознакомить экскурсантов с местными загадочными и мистическими </tspan></tspan><tspan
+         x="5.09375"
+         y="142.46856"
+         id="tspan254528"><tspan
            style="font-family:times;-inkscape-font-specification:times"
-           id="tspan254307">достопримечательности  Крыма.
+           id="tspan254526">достопримечательности  Крыма.
 </tspan></tspan><tspan
-         x="5.1035156"
-         y="148.09301"
-         id="tspan254315"><tspan
+         x="5.09375"
+         y="148.0852"
+         id="tspan254534"><tspan
            style="font-weight:bold;font-family:times;-inkscape-font-specification:'times Bold'"
-           id="tspan254311">Задачи:</tspan><tspan
+           id="tspan254530">Задачи:</tspan><tspan
            style="font-family:times;-inkscape-font-specification:times"
-           id="tspan254313"> показать и рассказать экскурсантам историю, легенду, предания, связанные с выбранными местами </tspan></tspan><tspan
-         x="5.1035156"
-         y="153.73928"
-         id="tspan254319"><tspan
+           id="tspan254532"> показать и рассказать экскурсантам историю, легенду, предания, связанные с выбранными местами </tspan></tspan><tspan
+         x="5.09375"
+         y="153.73147"
+         id="tspan254538"><tspan
            style="font-family:times;-inkscape-font-specification:times"
-           id="tspan254317">Крыма. Развить интерес к Родному краю. Заинтересовать и  воспитать гражданско-патриотические чувства, </tspan></tspan><tspan
-         x="5.1035156"
-         y="159.35592"
-         id="tspan254323"><tspan
+           id="tspan254536">Крыма. Развить интерес к Родному краю. Заинтересовать и  воспитать гражданско-патриотические чувства, </tspan></tspan><tspan
+         x="5.09375"
+         y="159.3481"
+         id="tspan254542"><tspan
            style="font-family:times;-inkscape-font-specification:times"
-           id="tspan254321">любовь к малой Родине-Крыму.
+           id="tspan254540">любовь к малой Родине-Крыму.
 </tspan></tspan><tspan
-         x="5.1035156"
-         y="164.97256"
-         id="tspan254329"><tspan
+         x="5.09375"
+         y="164.96474"
+         id="tspan254548"><tspan
            style="font-weight:bold;font-family:times;-inkscape-font-specification:'times Bold'"
-           id="tspan254325">Возрастная категория:</tspan><tspan
+           id="tspan254544">Возрастная категория:</tspan><tspan
            style="font-family:times;-inkscape-font-specification:times"
-           id="tspan254327"> от 6 лет.
+           id="tspan254546"> от 6 лет.
 </tspan></tspan><tspan
-         x="5.1035156"
-         y="170.61883"
-         id="tspan254335"><tspan
+         x="5.09375"
+         y="170.61101"
+         id="tspan254554"><tspan
            style="font-weight:bold;font-family:times;-inkscape-font-specification:'times Bold'"
-           id="tspan254331">Вид экскурсии:</tspan><tspan
+           id="tspan254550">Вид экскурсии:</tspan><tspan
            style="font-family:times;-inkscape-font-specification:times"
-           id="tspan254333"> обзорная экскурсия.</tspan></tspan></text>
-    <image
-       width="75.866455"
-       height="50.391296"
-       preserveAspectRatio="none"
-       xlink:href="img/1.png"
-       id="image254067"
-       x="7.9796939"
-       y="176.27353" />
-    <image
-       width="75.385445"
-       height="50.230511"
-       preserveAspectRatio="none"
-       xlink:href="img/3.png"
-       id="image254165"
-       x="89.13781"
-       y="176.27353" />
+           id="tspan254552"> обзорная экскурсия.</tspan></tspan></text>
+    <g
+       id="g254465"
+       transform="translate(1.003752)">
+      <image
+         width="95"
+         height="63.099998"
+         preserveAspectRatio="none"
+         xlink:href="img/1.png"
+         id="image254067"
+         x="7.9796939"
+         y="176.27353" />
+      <image
+         width="95"
+         height="63.299999"
+         preserveAspectRatio="none"
+         xlink:href="img/3.png"
+         id="image254165"
+         x="105.0128"
+         y="176.27353" />
+    </g>
   </g>
 </svg>
-
