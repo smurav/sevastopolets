@@ -1,10 +1,14 @@
 theme: jekyll-theme-cayman
 
-title: Minimal theme
+title: Загадочный и мистический Крым
+description: Проектная работа в рамках участия в Конкурсе проектных работ обучающихся "Крымские маршруты" VII-го комплексного образовательного проекта "Москва-Крым-Территория талантов" [https://sevastopolets-moskva.ru/]
 logo: /img/seva_logo.png"
-description: Minimal is a theme for GitHub Pages.
+description: 
+
 show_downloads: false
 
 github:
   is_project_page: false
   
+avatar: "/img/seva_logo.png"
+
