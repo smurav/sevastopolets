@@ -1,4 +1,10 @@
 theme: jekyll-theme-cayman
 
+title: Minimal theme
+logo: /img/seva_logo.png"
+description: Minimal is a theme for GitHub Pages.
+show_downloads: false
+
 github:
   is_project_page: false
+  
