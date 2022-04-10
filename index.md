@@ -1,4 +1,226 @@
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
 
-[Загадочный и мистический Крым](crimea.svg)
+<svg
+   width="210mm"
+   height="3000mm"
+   viewBox="0 0 210 3000"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   sodipodi:docname="crimea.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     height="3000mm"
+     inkscape:zoom="0.32026165"
+     inkscape:cx="165.48969"
+     inkscape:cy="530.81598"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="105.06718"
+       y="13.177654"
+       id="text3557"><tspan
+         sodipodi:role="line"
+         id="tspan3555"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="105.06718"
+         y="13.177654">Образовательное учреждение: ГБОУ «Бауманская инженерная школа № 1580»</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="105.06718"
+         y="18.469316"
+         id="tspan3559" /><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="105.06718"
+         y="23.760979"
+         id="tspan3561">Номинация: Исторический Крым</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="105.06718"
+         y="29.052641"
+         id="tspan3563" /><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="105.06718"
+         y="34.344303"
+         id="tspan3565">Тема работы: Загадочный и мистический Крым</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="105.06718"
+         y="39.635963"
+         id="tspan3567" /><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="105.06718"
+         y="44.927628"
+         id="tspan3569">ФИО автора: Муравьёва Мария Сергеевна, 5 класс</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="105.06718"
+         y="50.219292"
+         id="tspan3571" /><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="105.06718"
+         y="55.510952"
+         id="tspan3573">ФИО и должность руководителя: Порфирьева Ирина Анатольевна, учитель истории</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="105.06718"
+         y="60.802612"
+         id="tspan3575" /><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="105.06718"
+         y="66.094276"
+         id="tspan3577">2022 г., Москва</tspan></text>
+    <path
+       style="fill:#ffcc00;stroke:#ffcc00;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 23.207373,78.491063 H 186.79263"
+       id="path60792" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:times;-inkscape-font-specification:times;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="29.218451"
+       y="91.979454"
+       id="text65343"><tspan
+         sodipodi:role="line"
+         id="tspan65341"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
+         x="29.218451"
+         y="91.979454">Загадочный и мистический Крым</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:#ffcc00;stroke-width:1.2052;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect91889"
+       width="199.7948"
+       height="147.99188"
+       x="5.1025991"
+       y="99.385063" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect91889);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="260.2149"
+       y="241.53322"
+       id="text94965"><tspan
+         x="5.1035156"
+         y="103.13027"
+         id="tspan254279"><tspan
+           style="font-family:times;-inkscape-font-specification:times"
+           id="tspan254277">Крымская земля – это истинная находка для тех, кто любит загадочные и мистические места. Существует </tspan></tspan><tspan
+         x="5.1035156"
+         y="108.74691"
+         id="tspan254283"><tspan
+           style="font-family:times;-inkscape-font-specification:times"
+           id="tspan254281">множество историй о том, как жители или приезжие становятся очевидцами необъяснимых вещей, даже </tspan></tspan><tspan
+         x="5.1035156"
+         y="114.36355"
+         id="tspan254287"><tspan
+           style="font-family:times;-inkscape-font-specification:times"
+           id="tspan254285">могут указать места, где происходят неподвластные разуму ситуации. Многие утверждают, что на </tspan></tspan><tspan
+         x="5.1035156"
+         y="119.98018"
+         id="tspan254291"><tspan
+           style="font-family:times;-inkscape-font-specification:times"
+           id="tspan254289">полуострове есть особенные точки: одни способны подарить человеку силу и энергию, другие вгонят в тоску </tspan></tspan><tspan
+         x="5.1035156"
+         y="125.59682"
+         id="tspan254295"><tspan
+           style="font-family:times;-inkscape-font-specification:times"
+           id="tspan254293">и депрессию. О самых интересных и удивительных объектах, а также их происхождении я расскажу в этой </tspan></tspan><tspan
+         x="5.1035156"
+         y="131.21346"
+         id="tspan254299"><tspan
+           style="font-family:times;-inkscape-font-specification:times"
+           id="tspan254297">презентации.
+</tspan></tspan><tspan
+         x="5.1035156"
+         y="136.8301"
+         id="tspan254305"><tspan
+           style="font-weight:bold;font-family:times;-inkscape-font-specification:'times Bold'"
+           id="tspan254301">Цель экскурсии:</tspan><tspan
+           style="font-family:times;-inkscape-font-specification:times"
+           id="tspan254303"> ознакомить экскурсантов с местными загадочными и мистическими </tspan></tspan><tspan
+         x="5.1035156"
+         y="142.47637"
+         id="tspan254309"><tspan
+           style="font-family:times;-inkscape-font-specification:times"
+           id="tspan254307">достопримечательности  Крыма.
+</tspan></tspan><tspan
+         x="5.1035156"
+         y="148.09301"
+         id="tspan254315"><tspan
+           style="font-weight:bold;font-family:times;-inkscape-font-specification:'times Bold'"
+           id="tspan254311">Задачи:</tspan><tspan
+           style="font-family:times;-inkscape-font-specification:times"
+           id="tspan254313"> показать и рассказать экскурсантам историю, легенду, предания, связанные с выбранными местами </tspan></tspan><tspan
+         x="5.1035156"
+         y="153.73928"
+         id="tspan254319"><tspan
+           style="font-family:times;-inkscape-font-specification:times"
+           id="tspan254317">Крыма. Развить интерес к Родному краю. Заинтересовать и  воспитать гражданско-патриотические чувства, </tspan></tspan><tspan
+         x="5.1035156"
+         y="159.35592"
+         id="tspan254323"><tspan
+           style="font-family:times;-inkscape-font-specification:times"
+           id="tspan254321">любовь к малой Родине-Крыму.
+</tspan></tspan><tspan
+         x="5.1035156"
+         y="164.97256"
+         id="tspan254329"><tspan
+           style="font-weight:bold;font-family:times;-inkscape-font-specification:'times Bold'"
+           id="tspan254325">Возрастная категория:</tspan><tspan
+           style="font-family:times;-inkscape-font-specification:times"
+           id="tspan254327"> от 6 лет.
+</tspan></tspan><tspan
+         x="5.1035156"
+         y="170.61883"
+         id="tspan254335"><tspan
+           style="font-weight:bold;font-family:times;-inkscape-font-specification:'times Bold'"
+           id="tspan254331">Вид экскурсии:</tspan><tspan
+           style="font-family:times;-inkscape-font-specification:times"
+           id="tspan254333"> обзорная экскурсия.</tspan></tspan></text>
+    <image
+       width="75.866455"
+       height="50.391296"
+       preserveAspectRatio="none"
+       xlink:href="img/1.png"
+       id="image254067"
+       x="7.9796939"
+       y="176.27353" />
+    <image
+       width="75.385445"
+       height="50.230511"
+       preserveAspectRatio="none"
+       xlink:href="img/3.png"
+       id="image254165"
+       x="89.13781"
+       y="176.27353" />
+  </g>
+</svg>
 
